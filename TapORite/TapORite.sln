@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapORite", "TapORite\TapORite\TapORite.csproj", "{A89F4856-1A8C-4CA1-A7F2-5EA14F5F6DCF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TapORiteContent", "TapORite\TapORiteContent\TapORiteContent.contentproj", "{EE110B75-B2A2-471F-9E71-B0CCDC476AA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A89F4856-1A8C-4CA1-A7F2-5EA14F5F6DCF}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A89F4856-1A8C-4CA1-A7F2-5EA14F5F6DCF}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A89F4856-1A8C-4CA1-A7F2-5EA14F5F6DCF}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A89F4856-1A8C-4CA1-A7F2-5EA14F5F6DCF}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A89F4856-1A8C-4CA1-A7F2-5EA14F5F6DCF}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A89F4856-1A8C-4CA1-A7F2-5EA14F5F6DCF}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{EE110B75-B2A2-471F-9E71-B0CCDC476AA5}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EE110B75-B2A2-471F-9E71-B0CCDC476AA5}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
